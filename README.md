@@ -11,7 +11,7 @@ PROBLEM STATEMENT: Have you ever wondered when the best time of year to book a h
 OBJECTIVE: We are provided with a hotel bookings dataset. Out main objective is performing EDA on the given dataset and draw useful conclusions about general trends in hotel bookings and how factors governing hotel bookings interact with each other. I have tried to do a simple analysis of hotel booking data using matplotlib and seaborn libraries.
 
 VARIBLE DESCRIPTION:
-hotel: Name of hotel ( City or Resort)
+-hotel: Name of hotel ( City or Resort)
 - is_canceled: Whether the booking is canceled or not (0 for no canceled and 1 for canceled)
 - lead_time: time (in days) between booking transaction and actual arrival.
 - arrival_date_year: Year of arrival
